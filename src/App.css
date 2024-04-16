@@ -23,6 +23,9 @@
     align-items: center !important;
     justify-content: center !important;
 }
+.min_height{
+    min-height: 91vh;
+}
 
 @media (min-width:1440px) {
     .translate_x_45 {
