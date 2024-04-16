@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navlogo } from './Iconimg';
-import headerimg from '../assets/images/png/header-img.png';
+import headerimg from '../assets/images/web.p/header-img.webp';
 
 const Header = () => {
     return (

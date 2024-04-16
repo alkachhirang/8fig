@@ -1,9 +1,9 @@
 import React from 'react';
-import img1 from '../assets/images/png/revenue_img.png';
-import img2 from '../assets/images/png/manufacturing-img.png';
-import img3 from '../assets/images/png/cash_flow.png';
-import cardimg from '../assets/images/png/revene-img2.png';
-import cashimg from '../assets/images/png/cash-flow2.png';
+import img1 from '../assets/images/web.p/revenue_img.webp';
+import img2 from '../assets/images/web.p/manufacturing-img.webp';
+import img3 from '../assets/images/web.p/cash_flow.webp';
+import cardimg from '../assets/images/web.p/revene-img2.webp';
+import cashimg from '../assets/images/web.p/cash-flow2.webp';
 
 import { Onesvg, Threesvg, Twosvg } from './Iconimg';
 

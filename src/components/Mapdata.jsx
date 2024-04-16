@@ -1,8 +1,8 @@
-import img1 from "../assets/images/png/slider-img1.png";
-import img2 from "../assets/images/png/Amazon.png";
-import img3 from "../assets/images/png/shopify.png";
-import img4 from "../assets/images/png/Ebay.png";
-import img5 from "../assets/images/png/slider-img5.png";
+import img1 from "../assets/images/web.p/slider-img1.webp";
+import img2 from "../assets/images/web.p/Amazon.webp";
+import img3 from "../assets/images/web.p/shopify.webp";
+import img4 from "../assets/images/web.p/Ebay.webp";
+import img5 from "../assets/images/web.p/slider-img5.webp";
 
 export const slidedata = [
     {

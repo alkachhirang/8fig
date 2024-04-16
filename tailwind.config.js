@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'BgHero': "url('./assets/images/png/hero-bg-img.png')",
+        'BgHero': "url('./assets/images/web.p/hero-bg-img.webp')",
       },
       backgroundSize: {
         'bgsize': "100% 100%"
