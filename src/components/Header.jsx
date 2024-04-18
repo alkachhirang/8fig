@@ -4,7 +4,7 @@ import headerimg from '../assets/images/web.p/header-img.webp';
 
 const Header = () => {
     return (
-        <div className='bg-BgHero bg-cover lg:bg-bgsize bg-repeat lg:bg-center min_height min-h-screen pb-[50px] xl:pb-[150px]'>
+        <div className='bg-BgHero bg-cover lg:bg-bgsize bg-repeat lg:bg-center min_height min-h-screen pb-[50px] xl:pb-[165px]'>
             <div className='p-[24px] max-w-[100px]'>
                 <a href=''>
                     <Navlogo />
