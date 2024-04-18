@@ -12,7 +12,7 @@ function App() {
       <Header />
       <Main />
       <Evalution />
-      {/* <ChooseUs/> */}
+      <ChooseUs/>
     </div>
   );
 }
