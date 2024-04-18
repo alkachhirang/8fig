@@ -10,7 +10,7 @@ import { Onesvg, Threesvg, Twosvg } from './Iconimg';
 const Evalution = () => {
   return (
     <div className='bg-[#efece6] py-[50px] sm:py-[70px] md:py-[120px]'>
-      <div className='container mx-auto px-3 xl:max-w-[1132px]'>
+      <div className='container mx-auto px-3 xl:max-w-[1132px] xl:pb-[50px]'>
         <div className='flex flex-row items-center flex-wrap justify-between'>
           <div className='lg:w-[44%] w-full'>
             <div className='relative'>
