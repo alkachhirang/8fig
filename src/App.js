@@ -4,13 +4,15 @@ import "slick-carousel/slick/slick-theme.css";
 import Header from './components/Header';
 import Main from './components/Main';
 import Evalution from './components/Evalution';
+import ChooseUs from './components/ChooseUs';
 
 function App() {
   return (
     <div className="">
       <Header />
       <Main />
-      <Evalution/>
+      <Evalution />
+      {/* <ChooseUs/> */}
     </div>
   );
 }
