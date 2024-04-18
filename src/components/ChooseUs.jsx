@@ -1,8 +1,8 @@
 import React from 'react';
-import benifitimg1 from '../assets/images/png/benefit-img1.png';
-import benifitimg2 from '../assets/images/png/benefit-img2.png';
-import benifitimg3 from '../assets/images/png/benefit-img3.png';
-import benifitimg4 from '../assets/images/png/benefit-img4.png';
+import benifitimg1 from '../assets/images/web.p/benefit-img1.webp';
+import benifitimg2 from '../assets/images/web.p/benefit-img2.webp';
+import benifitimg3 from '../assets/images/web.p/benefit-img3.webp';
+import benifitimg4 from '../assets/images/web.p/benefit-img4.webp';
 
 const ChooseUs = () => {
     return (
