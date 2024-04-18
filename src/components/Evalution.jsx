@@ -15,7 +15,7 @@ const Evalution = () => {
           <div className='lg:w-[44%] w-full'>
             <div className='relative'>
               <img src={img1} alt="img1" className='w-full rounded-[40px] ' />
-              <img src={cardimg} alt="cardimg" className='rounded-[20px] absolute lg:left-[-5%] xl:left-[-22%] xl:bottom-[19%] lg:bottom-[-22%] max-w-[218px] w-full lg:block hidden ' />
+              <img src={cardimg} alt="cardimg" className='rounded-[20px] absolute lg:left-[5%] xl:left-[-22%] xl:bottom-[19%] lg:bottom-[-22%] max-w-[218px] w-full lg:block hidden ' />
             </div>
           </div>
           <div className='lg:w-[48%] w-full pt-[30px] sm:pt-[40px] lg:pt-0 '>
@@ -46,7 +46,7 @@ const Evalution = () => {
           <div className='lg:w-[44%] w-full'>
             <div className='relative'>
               <img src={img3} alt="img1" className='w-full rounded-[40px] ' />
-              <img src={cashimg} alt="cardimg" className='rounded-[32px] absolute lg:left-[-12%] xl:left-[-13%] xl:bottom-[62%] lg:bottom-[75%] max-w-[218px] w-full lg:block hidden ' />
+              <img src={cashimg} alt="cardimg" className='rounded-[32px] absolute lg:left-[3%] xl:left-[-13%] xl:bottom-[62%] lg:bottom-[75%] max-w-[218px] w-full lg:block hidden ' />
             </div>
           </div>
           <div className='lg:w-[48%] w-full pt-[30px] sm:pt-[40px] lg:pt-0 '>
