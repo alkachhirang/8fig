@@ -55,7 +55,7 @@ const Trusted = () => {
     return (
         <>
             <div className="bg-[#0E1122]">
-                <div className="container mx-auto xl:max-w-[750px] lg:pt-[46px] lg:pb-[54px] py-[50px]">
+                <div className="container mx-auto xl:max-w-[750px] lg:pt-[46px] lg:pb-[50px] py-[50px]">
                         <div className="">
                             <Slider {...settings}>
                                 {slidedata.map((slides, e) => {
