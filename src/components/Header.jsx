@@ -10,7 +10,7 @@ const Header = () => {
                     <Navlogo />
                 </a>
             </div>
-            <div className='container xl:max-w-[1164px] mx-auto px-3'>
+            <div className='container xl:max-w-[1164px] mx-auto sm:px-3 px-[25px]'>
                 <div className='flex flex-row flex-wrap justify-between pt-[50px] sm:pt-[70px] lg:pt-[150px] xl:pt-[200px] sm:pb-[50px]'>
                     <div className='lg:w-[40%] w-full flex flex-col items-center lg:items-start lg:pt-[70px]'>
                         <h2 className='ff_abril_medium font-bold text-[40px] sm:text-[60px] xl:text-[62.12px] leading-[106%] text-[#fff] mb-[10x] sm:mb-[16px] lg:mb-[24px] text-center lg:text-start'>Get AI funding for your store</h2>

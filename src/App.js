@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Main from './components/Main';
 import Evalution from './components/Evalution';
 import ChooseUs from './components/ChooseUs';
+import Eligible from './components/Eligible';
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       <Header />
       <Main />
       <Evalution />
-      <ChooseUs/>
+      <ChooseUs />
+      {/* <Eligible/> */}
     </div>
   );
 }
