@@ -11,6 +11,9 @@ module.exports = {
       backgroundSize: {
         'bgsize': "100% 100%"
       },
+      screens: {
+        "xs": "425px"
+      },
     },
   },
   plugins: [],

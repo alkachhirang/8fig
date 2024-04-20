@@ -23,10 +23,8 @@ const Header = () => {
                         <img src={headerimg} alt="headerimg" className='w-full max-w-[365px]' />
                     </div>
                 </div>
-
             </div>
         </div>
     )
 }
-
 export default Header;

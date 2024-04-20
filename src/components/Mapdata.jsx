@@ -3,6 +3,7 @@ import img2 from "../assets/images/web.p/Amazon.webp";
 import img3 from "../assets/images/web.p/shopify.webp";
 import img4 from "../assets/images/web.p/Ebay.webp";
 import img5 from "../assets/images/web.p/slider-img5.webp";
+import { Facebook, Instagram, LinkedIn, Twitter } from './Iconimg';
 
 export const slidedata = [
     {
@@ -28,5 +29,27 @@ export const slidedata = [
     {
         Image: img2,
         width: 'max-w-[56px]',
+    },
+];
+export const footerlink = [
+    {
+        link: "https://www.facebook.com/",
+        footersvg: <Facebook />,
+        label: "facebook",
+    },
+    {
+        link: "https://www.instagram.com/",
+        footersvg: <Instagram />,
+        label: "instagram",
+    },
+    {
+        link: "https://in.linkedin.com/",
+        footersvg: <LinkedIn />,
+        label: "linkedin",
+    },
+    {
+        link: "https://twitter.com/",
+        footersvg: <Twitter />,
+        label: "twitter",
     },
 ];
